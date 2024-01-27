@@ -1,0 +1,6 @@
+Với tư cách là một nhà phát triển phần mềm, tôi sẽ chọn xây dựng trang web đặt hàng và mua sắm trực tuyến bằng cách sử dụng nền tảng công nghệ .NET Core vì những lý do sau:
+a. Khả năng mở rộng: Biểu đồ được cung cấp cho thấy nhu cầu mua sắm tăng đáng kể trong một số tháng nhất định, đặc biệt là vào tháng 11 (Thứ Sáu Đen). .NET Core framework được thiết kế để xử lý những biến động về nhu cầu như vậy bằng cách cung cấp giải pháp có thể mở rộng để có thể xử lý số lượng lớn yêu cầu và người dùng.
+
+b. Khả năng tương thích đa nền tảng: .NET Core framework là đa nền tảng, nghĩa là nó có thể chạy trên Windows, Linux và macOS. Điều này cho phép công ty triển khai trang web trên nền tảng tiết kiệm chi phí nhất dựa trên nhu cầu của họ.
+
+c. Hiệu quả về chi phí: .NET Core là mã nguồn mở và sử dụng miễn phí, điều này có thể giúp công ty tiết kiệm chi phí cấp phép. Ngoài ra, .NET Core có một cộng đồng rộng lớn và năng động, điều đó có nghĩa là có rất nhiều tài nguyên sẵn có để giúp các nhà phát triển xây dựng và duy trì trang web.
